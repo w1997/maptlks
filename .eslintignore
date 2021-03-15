@@ -1,0 +1,8 @@
+node_modules/*
+**/lib/*
+**/libs/*
+**/web-front-ends-lib/*
+config/*
+public/*
+dist/*
+assets/*
